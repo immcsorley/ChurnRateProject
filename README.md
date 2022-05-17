@@ -25,7 +25,7 @@ Key takeaways from features
 
 - Customers with lower number of transactions and lower total transactions amounts are more likely to churn (Graphic 1 ).  
   ![Screenshot 2022-05-17 164428](https://user-images.githubusercontent.com/90923213/168915337-b4d54a74-a5a6-4754-b9f7-bbc134faf60b.png)
-- Customers with lower total revolving balance and lower average utilization ratio are also more likely to churn. (Graphic 2) 
+- Customers with lower total revolving balance and lower average utilization ratio are also more likely to churn. (Graphic 2)  <br/>
    ![Screenshot 2022-05-17 164439](https://user-images.githubusercontent.com/90923213/168915335-c669b349-5d41-48b1-b1ed-a856c931c7f1.png)
 - Customers with fewer total products through the company are more likely to churn. (Graphic 3) 
    ![Screenshot 2022-05-17 164448](https://user-images.githubusercontent.com/90923213/168915334-c016757d-b87d-42b8-a485-433d2dd7daab.png)
