@@ -47,7 +47,7 @@ This is especially useful for our clients because if they can predict 86% of cus
 ## Conclusion and Recommendations 
 After interpreting the results of our model and knowing which variables affect the churn rate the most, we have produced recommendations that the company can implement to address these variables and improve the churn rate of their business.  
 
-1. **Reward customers with higher cashback rewards when customers reach a certain number of transactions per month.** Based on our model, we believe this will help company XYZ because individuals who make more monthly transactions are significantly less likely to leave the company’s services.  
+1. **Reward customers with higher cashback rewards when customers reach a certain number of transactions per month.** Based on our model, we believe this will help the company because individuals who make more monthly transactions are significantly less likely to leave the company’s services.  
 
 2. **Offer different incentives such as travel amenities, credit card reward points, gas-purchase rewards, etc., for individuals who spend above their average credit balance.** According to our model, individuals who spend a higher dollar amount are much more likely to stay with the company since the transaction amount is the second most important variable for our model. 
 
