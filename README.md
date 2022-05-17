@@ -33,7 +33,7 @@ Key takeaways from features
 ## Models
 We used all classification models such as gradient boosting, Ada boost, Logistic regression, random forest, and SVM. We did cross-validation with all models with random seeds 42, 294290, and 990998. We chose the best model by looking at the ROC curve and AUC and the lowest error provided by the error matrix. We also looked at the Precision-Recall curve because since our data was highly unbalanced, the AUC could be misleading. The best model was a gradient boosting model with an AUC of .9911 and an average error rate of 7.6%.  This model was also the best on the precision-recall curve.  
 
-![Screenshot 2022-05-17 165018](https://user-images.githubusercontent.com/90923213/168915960-714cf766-75dc-44fc-b68c-94824ea2f91c.png)
+![Screenshot 2022-05-17 165018](https://user-images.githubusercontent.com/90923213/168915960-714cf766-75dc-44fc-b68c-94824ea2f91c.png) <br/>
 Precision/Recall/F1 of best model
 - Precision: 96% 
 - Recall: 85.7% 
