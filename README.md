@@ -1,4 +1,10 @@
 # Data Mining Churn Rate Project
+
+# High Level Summary
+In summary, this project used supervised machine learning to analyze credit card company data and build a model to predict customer churn. Exploratory analysis revealed that customers with lower transaction numbers and amounts, lower revolving balances, and fewer total products were more likely to churn. The best model, a gradient boosting model, had an AUC of .9911 and an average error rate of 7.6%. The model had a precision of 96% and a recall of 85.7%. The conclusion and recommendations suggest that the company should offer incentives such as cashback rewards and travel amenities to retain customers.
+
+
+# In depth 
 This is a supervised machine learning classification project where we used predictive modeling to analyzed a credit card companies data to build a model that predicts customer churn and give suggestions to reduce churn. 
 ## Table of Contents
 * [General Info](#general-information)
